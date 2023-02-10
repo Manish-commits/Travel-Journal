@@ -1,0 +1,27 @@
+.tile-container {
+    width: 60%;
+    height: 168px;
+    display: flex;
+    margin: 17px;
+    padding: 10px;
+}
+
+img {
+    width: 125px ;
+    height: 168px;
+    border-radius: 5px;
+    margin-right: 12px;
+}
+
+.tile-head {
+    display: flex;
+    padding: 7px;
+}
+
+.tile-head a {
+    margin-left: 14px;
+}
+
+hr{
+    width: 60%;
+}
